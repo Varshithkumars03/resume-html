@@ -9,7 +9,7 @@ The goal of this project is to demonstrate the fundamentals of web development i
 ## 🔗 Live Website
 
 ```
-[https://your-username.github.io/resume-website/](https://varshithkumars03.github.io/resume-html/)
+https://varshithkumars03.github.io/resume-html/
 ```
 
 ---
